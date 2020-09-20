@@ -1,0 +1,9 @@
+Package: com.minazuki.lscheckcamera
+Name: LSCheckCamera
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Password authentication is performed when opening the lock screen camera.
+Maintainer: Minazuki
+Author: Minazuki
+Section: Tweaks
